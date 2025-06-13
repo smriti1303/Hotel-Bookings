@@ -56,4 +56,7 @@ The analysis is visualized using a dashboard that includes:
 ## Acknowledgment
 Dataset inspired by the Hotel Booking Demand dataset from Kaggle.
 
+## Conclusion
+These insights can help hotels optimize revenue management, implement stricter cancellation policies during peak seasons, and target guest types more effectively with personalized offers.
+
 
